@@ -1,16 +1,13 @@
-# flutter_splash_login
+# Flutter Splash & Login App
 
-A Flutter project that builds a modern Splash Screen and Login Screen from a Figma design.
+This Flutter project demonstrates **modern Splash, Login, and Register screens** converted directly from Figma designs.  
+It showcases how to implement **beautiful UI, reusable widgets, and navigation** between screens.
 
-## Getting Started
+The app includes:
 
-This project is a starting point for a Flutter application.
+- A **Splash Screen** with logo animation.
+- A **Login Screen** with custom TextFields and buttons.
+- A **Register Screen** ready for backend integration.
+- **Reusable widgets** for TextFields and Buttons to maintain consistent design.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

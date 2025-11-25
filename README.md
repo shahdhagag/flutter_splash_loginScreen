@@ -12,11 +12,12 @@ The app includes:
 ## Screenshots
 
 ### Splash Screen
-<img width="300" alt="Splash Screen" src="https://github.com/user-attachments/assets/900af4cd-5f42-4535-bea1-0ce59ad3cb90" />
+
+<img width="300" alt="Register Screen" src="https://github.com/user-attachments/assets/44b9bf99-f308-4ae2-9751-4bfb13229264" />
 
 ### Login Screen
 <img width="300" alt="Login Screen" src="https://github.com/user-attachments/assets/844d4fe6-d370-4296-805b-539387cb99d6" />
 
 ### Register Screen
-<img width="300" alt="Register Screen" src="https://github.com/user-attachments/assets/44b9bf99-f308-4ae2-9751-4bfb13229264" />
+<img width="300" alt="Splash Screen" src="https://github.com/user-attachments/assets/900af4cd-5f42-4535-bea1-0ce59ad3cb90" />
 
